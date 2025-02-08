@@ -1,1 +1,0 @@
-# Approximate-Convolution-Model-using-multiplier
